@@ -42,6 +42,10 @@ Ingestion: Autoloader (Stream ingestion) is used ingestion into bronze layer.
 
 •	Total Orders per state
 
+<details>
+<img src="img/Dashboard.jpg" width="100%">
+</details
+  
 ## End to End pipeline build
 
 <details>
